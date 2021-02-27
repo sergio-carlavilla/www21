@@ -1,0 +1,32 @@
+= Webapps working group
+
+The idea of this group is to carry out a facelift of the website and improve the web tools that we have.
+
+== Phase 1
+
+In this phase we will redesign and build a new documentation portal.
+
+Task:
+
+* Design a new theme for the documentation portal - In progress - carlavilla@
+* Implemente the new design in the documentation portal. It must be responsive - In progress - carlavilla@
+* Implemente a custom search function to search inside the portal
+* Improve the generation tools of the documentation. Remove Python and move to Ruby.
+* Design a new theme for the website. It must be responsive.
+
+== Phase 2
+
+In this phase we will create a new tool for man.FreeBSD.org
+
+Task:
+
+* Use mandoc to generate the HTML files.
+* Create a portal (manual.FreeBSD.org???[1]) to show all of this manual pages.
+
+== Phase 3
+
+In this phase we will create a new tool to show all the ports.
+It may be somewhat ambitious, but why not create something like https://snapcraft.io/?
+
+
+[1] Only as an idea, maybe can move from _man_ to _manual_
